@@ -1,0 +1,44 @@
+#elisa{
+    font-family: "Dancing Script", cursive;
+    text-align: center;
+}
+
+.lorem{
+    font-weight: bold;
+
+}
+
+.lorem1{
+    font-weight: bold;
+    margin-left: 80px;
+
+}
+
+.social{
+    width: 200px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-left: 80px;
+
+}
+
+.icon-container{
+
+    margin-top: 30px;
+    margin-left: 250px;
+}
+
+.icon{
+    font-size: 20px;
+}
+
+
+
+
+
